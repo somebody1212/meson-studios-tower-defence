@@ -1,7 +1,9 @@
 # meson-studios-tower-defence
 Tower Defence by Meson Studios
 
-'Tis a game made by the Aurora4x Discord.
+A game made by the Aurora4x Discord.
+
+Plan in the designdoc
 
 We have no idea what we're doing.
 
