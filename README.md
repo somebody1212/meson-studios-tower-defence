@@ -8,5 +8,13 @@ We have no idea what we're doing.
 Contributors:
 
 AGM-114
+<<<<<<< HEAD
 
+=======
+Cyborg29x
+Dante
+Lucifer
+Ri0rdian
+Rod995
+>>>>>>> master
 Somebody1212
