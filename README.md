@@ -8,3 +8,9 @@ We have no idea what we're doing.
 Contributors:
 
 AGM-114
+Cyborg29x
+Dante
+Lucifer
+Ri0rdian
+Rod995
+Somebody1212
