@@ -4,6 +4,7 @@ This is a VERY ROUGH (early) idea:
 Tower Defense
 Sci-fi Fantasy setting with heavy steampunk creep
 Single system scale (planet/s)
+
 Defending against invading Lovecraftian horrors from another planet
 They come through portal that a young magic grad student opened to prove his theory that there are other planets like ours (he was right)
 He believed the planet to be empty (he was wrong). Oh the horror! (pardon the pun)
@@ -14,6 +15,24 @@ spells cast using mana (destructive, land altering, enchantments and similar) an
 Economy: Mana generating buildings (Wizard Conclave, Mage Tower), Wealth generating buildings (Bank, Hedge Fund - only for Hedge Wizards), 
 Upkeep buildings (Field Hospital, Healer Tent - reduced casualty rate, Inn, Brothel - soldier upkeep, 
 Engineers Guild, Blacksmith - tower upkeep).
+
+Tower types =  Defending: Gattling Turret, Meson Focuser, Beam Laser...
+
+
+
+
+Spell types:
+Destructive: Firestorm, Exorcism, Chain Lightning, Poisonous Mist, Earthquake 
+
+Land alteration: Raise Mountain, Flatten Mountain, Create River, Create Crossing, possibly terrain types? (Swamp, Forest, Jungle, Desert,
+Sea, Ice = each with different debuff/buff if wanted)
+
+Enchantments: 
+
+
+Soldier types:
+Spearmen, Musketeers, Berserkers
+
 
 TBC....
  
