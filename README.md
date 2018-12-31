@@ -7,5 +7,6 @@ We have no idea what we're doing.
 
 Contributors:
 
-Somebody1212
 AGM-114
+
+Somebody1212
