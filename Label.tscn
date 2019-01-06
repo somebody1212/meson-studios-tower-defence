@@ -1,6 +1,6 @@
 [gd_scene format=2]
 
-[node name="Label" type="Label" index="0"]
+[node name="Label" type="Label"]
 
 anchor_left = 0.0
 anchor_top = 0.0
