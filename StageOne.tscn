@@ -295,7 +295,7 @@ shape = SubResource( 2 )
 [node name="Ground5" type="Sprite" parent="Special_Blocks" index="5"]
 
 editor/display_folded = true
-position = Vector2( 270, 599 )
+position = Vector2( 270, 607 )
 texture = ExtResource( 2 )
 script = ExtResource( 3 )
 __meta__ = {
@@ -313,6 +313,30 @@ friction = 1.0
 bounce = 0.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Special_Blocks/Ground5/StaticBody2D" index="0"]
+
+shape = SubResource( 2 )
+
+[node name="Ground6" type="Sprite" parent="Special_Blocks" index="6"]
+
+editor/display_folded = true
+position = Vector2( 161, 607 )
+texture = ExtResource( 2 )
+script = ExtResource( 3 )
+__meta__ = {
+"_edit_group_": true
+}
+
+[node name="StaticBody2D" type="StaticBody2D" parent="Special_Blocks/Ground6" index="0"]
+
+input_pickable = false
+collision_layer = 1
+collision_mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Special_Blocks/Ground6/StaticBody2D" index="0"]
 
 shape = SubResource( 2 )
 
