@@ -1,0 +1,6 @@
+C:\Users\Edward\Documents\GitHub\meson-studios-tower-defence\meson-studios-tower-defence\.mono\temp\obj\Tools\Meson Studios Tower Defense.csprojAssemblyReference.cache
+C:\Users\Edward\Documents\GitHub\meson-studios-tower-defence\meson-studios-tower-defence\.mono\temp\obj\Tools\Meson Studios Tower Defense.csproj.CoreCompileInputs.cache
+C:\Users\Edward\Documents\GitHub\meson-studios-tower-defence\meson-studios-tower-defence\.mono\temp\bin\Tools\Meson Studios Tower Defense.dll
+C:\Users\Edward\Documents\GitHub\meson-studios-tower-defence\meson-studios-tower-defence\.mono\temp\bin\Tools\Meson Studios Tower Defense.pdb
+C:\Users\Edward\Documents\GitHub\meson-studios-tower-defence\meson-studios-tower-defence\.mono\temp\obj\Tools\Meson Studios Tower Defense.dll
+C:\Users\Edward\Documents\GitHub\meson-studios-tower-defence\meson-studios-tower-defence\.mono\temp\obj\Tools\Meson Studios Tower Defense.pdb
