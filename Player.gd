@@ -2,12 +2,13 @@ extends KinematicBody2D
 
 const SPEED = 60
 const GRAVITY = 10
-const JUMP_POWER = -250
+const JUMP_POWER = 250
 const FLOOR = Vector2(0, -1)
 
 var velocity = Vector2()
 
 var on_ground = false
+var in_air = false
 
 func _physics_process(delta):
 	
@@ -20,14 +21,22 @@ func _physics_process(delta):
 	
 	if Input.is_action_pressed("ui_up"):
 		if on_ground == true:
-			velocity.y = JUMP_POWER
+			velocity.y = JUMP_POWER * -1
 			on_ground = false
+			in_air = true
+	if Input.is_action_pressed("ui_down"):
+		if in_air == true:
+			velocity.y = JUMP_POWER * 1
+			on_ground = true
+			in_air = false
 	
 	velocity.y += GRAVITY
 	
 	if is_on_floor():
 		on_ground = true
+		in_air = false
 	else:
 		on_ground = false
+		in_air = true
 	
 	velocity = move_and_slide(velocity, FLOOR)
