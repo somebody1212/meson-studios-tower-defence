@@ -7,20 +7,12 @@ Plan in the designdoc
 
 We have no idea what we're doing.
 
-Contributors:
+### Contributors:
 
-AGM-114
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
-Cyborg29x
-Dante
-Lucifer
-Ri0Rdian
-Rod995
->>>>>>> master
-=======
-Dante
->>>>>>> dev
-Somebody1212
+* AGM-114
+* Cyborg29x
+* Dante
+* Lucifer
+* Ri0Rdian
+* Rod995
+* Somebody1212
